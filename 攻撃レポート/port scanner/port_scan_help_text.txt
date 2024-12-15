@@ -1,0 +1,2 @@
+This program is a TCP port scanning system.
+To use it, type ./port_scan <IP> to scan all ports.
